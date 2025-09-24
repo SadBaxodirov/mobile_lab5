@@ -19,15 +19,15 @@ class MyApp extends StatelessWidget {
           color: Colors.redAccent,
           borderRadius: BorderRadius.circular(10),
         ),
-        height: 200,
+        height: 300,
         width: 150,
         child: Column(
           children: const <Widget>[
             Icon(Icons.star, size: 50),
             Icon(Icons.star, size: 50),
             Icon(Icons.star, size: 50),
-            Icon(Icons.star, size:50),
-            Icon(Icons.star, size:50),
+            Icon(Icons.menu, size: 50),
+            Icon(Icons.circle_notifications, size: 50)
           ],
         ),
       ),
