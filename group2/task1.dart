@@ -25,7 +25,9 @@ class MyApp extends StatelessWidget {
           children: const <Widget>[
             Icon(Icons.star, size: 50),
             Icon(Icons.star, size: 50),
-            Icon(Icons.star, size: 50)
+            Icon(Icons.star, size: 50),
+            Icon(Icons.star, size:50),
+            Icon(Icons.star, size:50),
           ],
         ),
       ),
